@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "OWOZU",
+	"description": "OWOZU is a Company that is dedicated to the creation of content by Spanish-speaking VTubers that are: KarmaVT, SiriVT, Rakkun, Chessi, Nott, Hetto, Shubyuwu, Kendomurft, Emikukis and Mechs, as well as retired vtubers such as: Nori, Pandoraserpente and Hiru Doge",
+	"links": {
+		"website": [
+			"https://www.owozu.com/"
+		],
+		"discord": [
+			"NQxHrUFdHa"
+		]
+	},
+	"path": {
+		"120-259": [
+			[
+				-64,
+				-826
+			],
+			[
+				-64,
+				-784
+			],
+			[
+				-15,
+				-784
+			],
+			[
+				-15,
+				-826
+			]
+		]
+	},
+	"center": {
+		"120-259": [
+			-39,
+			-805
+		]
+	}
+}
