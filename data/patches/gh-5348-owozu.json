@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "OWOZU",
+	"description": "OWOZU es una Empresaqur se dedica a la dedicada a la creación de contenido por parte de VTubers de habla Hispana que son: KarmaVT, SiriVT, Rakkun, Chessi, Nott, Hetto, Shubyuwu, Kendomurft, Emikukis y Mechs, asi como vtubers retirados como : Nori, Pandoraserpente y Hiru Doge",
+	"links": {
+		"website": [
+			"https://www.owozu.com/"
+		],
+		"discord": [
+			"NQxHrUFdHa"
+		]
+	},
+	"path": {
+		"118-247": [
+			[
+				-64,
+				-826
+			],
+			[
+				-64,
+				-784
+			],
+			[
+				-15,
+				-784
+			],
+			[
+				-15,
+				-825
+			]
+		]
+	},
+	"center": {
+		"118-247": [
+			-40,
+			-805
+		]
+	}
+}
