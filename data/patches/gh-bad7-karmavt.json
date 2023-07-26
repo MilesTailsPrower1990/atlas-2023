@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "KarmaVT",
+	"description": "KarmaVT es una VTuber Chilena de la agencia OWOZU, Karma antes era una cuervo que le picaba los ojos a la gente, un dia el alma de Karma se traslado a una humana que estaba a punto de quitarse la vida, y asi Karma se convirtio en un humano. Ahora es una Gotica Muslona que hace Streams en Twitch y videos en Youtube, Siempre que tengas mucha plata ella hara lo que quieras ya que a los cuervos les encanta lo brillante\n\nDatos extra: ella tiene muchos ships pero el mas god es Rakkun X Karma.\n\nNo preguntes.... Solo gozalo.......",
+	"links": {
+		"website": [
+			"https://www.owozu.com/karma/",
+			"https://www.twitch.tv/karmaVT_",
+			"https://www.patreon.com/KarmaVT",
+			"https://www.tiktok.com/@karma_vt",
+			"https://twitter.com/KarmaVT_"
+		],
+		"discord": [
+			"qPKGUajnEP"
+		]
+	},
+	"path": {
+		"220-259": [
+			[
+				-791,
+				403
+			],
+			[
+				-770,
+				403
+			],
+			[
+				-770,
+				429
+			],
+			[
+				-791,
+				429
+			]
+		]
+	},
+	"center": {
+		"220-259": [
+			-780,
+			416
+		]
+	}
+}
