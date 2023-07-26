@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "Mechs",
+	"description": "Mechs es un streamer y Youtuber Afiliado a la agencia de VTubers OWOZU, El usa un Gato como VTuber, es de Colombia, es un jugador de League of Legends y es un calvo otp vayne que carrea sin pastillas todas las noches",
+	"links": {
+		"website": [
+			"https://www.owozu.com/mechs/",
+			"https://www.tiktok.com/@mechslol",
+			"https://twitter.com/MechsLOL",
+			"https://www.youtube.com/c/MechsLOL",
+			"https://www.twitch.tv/lolmechs"
+		],
+		"discord": [
+			"NQxHrUFdHa"
+		]
+	},
+	"path": {
+		"175-181": [
+			[
+				-1410,
+				245
+			],
+			[
+				-1410,
+				277
+			],
+			[
+				-1368,
+				277
+			],
+			[
+				-1368,
+				245
+			]
+		]
+	},
+	"center": {
+		"175-181": [
+			-1389,
+			261
+		]
+	}
+}
